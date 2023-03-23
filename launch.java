@@ -1,6 +1,10 @@
 {
 void m1()
 {
- //somecodes
+ system.out.println("hello java lovers");
+}
+void m2()
+{
+ system.out.println("hello java lovers");
 }
 }
